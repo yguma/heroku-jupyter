@@ -17,4 +17,11 @@ dependencies:
   - nose
   - pip:
     - pgcontents
+    - twstock
+    - pandas
+    - matplotlib
+    - pymongo
+    - imgurpython
+    - SQLAlchemy
+    - PyMySQL
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
