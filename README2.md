@@ -1,6 +1,7 @@
 # malo安裝 python3.6 + jupyter on Heroku的memo
 
-- 安裝後容易，只要按個deploy就行了
+- 安裝後容易，只要按個deploy就行了  
+![deploy的圖](https://imgur.com/P0x4zIs.png)
 
 - 但…如果有想用的pandas, matplotlib…等package要用，每次都要到terminal中安裝，很煩
 
