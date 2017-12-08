@@ -8,6 +8,8 @@ storage.
 **2017-05-09: Due to changes in the ContentsManager interface, the notebook store 
 does not work properly. Saving documents is broken.**
 
+**2017-12-08 如果要加入自己需要的套件，或是佈署python2.7的版本，可以參考branch "py27_from_master" 和 "py3_from_master"，這二個branch已加入pandas的相關套件。並且在二個branch中的"readme2.md"中有另外說明設定的步驟，方便大家follow~
+
 ## Quick start
 
 Jupyter will not start, if the environment variable `JUPYTER_NOTEBOOK_PASSWORD`
