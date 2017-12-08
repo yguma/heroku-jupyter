@@ -8,6 +8,9 @@ storage.
 **2017-05-09: Due to changes in the ContentsManager interface, the notebook store 
 does not work properly. Saving documents is broken.**
 
+**如果要增加安裝套件(如pandas)，請參考branch "py3_from_master" 的 [這邊](https://github.com/maloyang/heroku-jupyter/blob/py27_from_master/readme2.md)
+**如果是要使用python2.7，並安裝自己要的套件(如pandas)，請參考branch "py27_from_master" 的 [這邊](https://github.com/maloyang/heroku-jupyter/blob/py27_from_master/readme2.md)
+
 ## Quick start
 
 Jupyter will not start, if the environment variable `JUPYTER_NOTEBOOK_PASSWORD`
